@@ -40,7 +40,7 @@ I'm interested in software engineering & product management career paths, as wel
 
 ### Resume
 
-I'd love to hear from you! Shoot me a message at rohanj AT princeton DOT edu, or feel free to connect on LinkedIn. 
+I'd love to hear from you! Shoot me a message at on LinkedIn. 
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
     integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
